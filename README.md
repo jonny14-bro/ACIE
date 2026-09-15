@@ -1,3 +1,5 @@
+# ACIE
+
 # ACIE — Adaptive Coding Intelligence Engine
 
 > A local-first, adaptive coding intelligence engine that routes requests, estimates task difficulty, retrieves relevant memory, generates multi-step code, detects semantic drift during generation, validates the assembled result, and performs targeted self-correction.
