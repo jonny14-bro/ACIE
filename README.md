@@ -2,6 +2,35 @@
 
 # ACIE — Adaptive Coding Intelligence Engine
 
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Core Language & Runtime
+
+<img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+
+### AI & Machine Learning
+
+<img src="https://img.shields.io/badge/llama.cpp-Local%20LLM-000000?style=for-the-badge" alt="llama.cpp"/>
+<img src="https://img.shields.io/badge/Sentence--Transformers-Embeddings-FF6F00?style=for-the-badge" alt="Sentence Transformers"/>
+<img src="https://img.shields.io/badge/FAISS-Vector%20Search-0468FF?style=for-the-badge" alt="FAISS"/>
+<img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+
+### System & Execution
+
+<img src="https://img.shields.io/badge/Local%20Inference-Offline%20First-2E7D32?style=for-the-badge" alt="Local Inference"/>
+<img src="https://img.shields.io/badge/Modular%20Architecture-Engineered-6A1B9A?style=for-the-badge" alt="Modular Architecture"/>
+
+### Developer Tools
+
+<img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Linux-Supported-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+
+</div>
+
 > A local-first, adaptive coding intelligence engine that routes requests, estimates task difficulty, retrieves relevant memory, generates multi-step code, detects semantic drift during generation, validates the assembled result, and performs targeted self-correction.
 
 ACIE is designed around the idea that a coding assistant should do more than produce a single completion. Instead of treating every request identically, it builds a pipeline around **intent, difficulty, memory, generation control, validation, and recovery**.
