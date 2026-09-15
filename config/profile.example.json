@@ -1,0 +1,21 @@
+{
+  "hardware": {
+    "gpu_name": "Example GPU",
+    "vram_gb": 8.0,
+    "ram_gb": 16.0
+  },
+  "model_dir": "~/models",
+  "optimizations": {
+    "tier_label": "Generic GPU + CPU",
+    "gpu_layers_table": {},
+    "default_context": 4096,
+    "default_batch": 256,
+    "cpu_threads": 8,
+    "default_max_tokens": 2048,
+    "default_temperature": 0.7,
+    "use_mmap": true,
+    "use_mlock": false,
+    "recommended_quant": "Q4_K_M",
+    "recommended_model_size": "7B"
+  }
+}

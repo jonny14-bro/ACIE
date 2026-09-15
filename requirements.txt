@@ -1,0 +1,7 @@
+sentence-transformers>=2.7.0
+huggingface_hub>=0.23.0
+faiss-cpu
+numpy
+rich
+psutil
+llama-cpp-python
